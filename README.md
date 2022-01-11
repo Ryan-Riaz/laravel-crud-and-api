@@ -1,1 +1,1 @@
-# Laravel Crud app with REST API
+# Laravel Crud app with REST API ( Authorization = sanctum)
